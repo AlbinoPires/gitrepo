@@ -1,0 +1,9 @@
+apiVersion: V1
+kind: Pod
+metadata:
+  name: Pod-1
+spec:
+  containers:
+  - name: nginx-container
+    image: nginx
+# aqui vamos testar o git agora
